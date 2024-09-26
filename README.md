@@ -44,4 +44,32 @@ A prova real do cálculo da equação de segundo grau, como mostrado na imagem a
 
 ---
 
+### Possibilidades de respostas de uma equação de segundo grau.
+
+#### Duas Raízes Reais e Distintas (Delta > 0)
+Quando o discriminante (Delta) é maior que zero, a equação possui duas raízes reais e distintas.
+##### Sistema
+![Delta > 0](./Images/007.png "Prova real do cálculo da equação de segundo grau")
+
+##### Prova Real
+![Prova Real](./Images/004.png "Prova real do cálculo da equação de segundo grau")
+
+#### Uma Raiz Real e Única (Delta = 0)
+Quando o discriminante é igual a zero, a equação tem uma única raiz real, também chamada de raiz dupla.
+##### Sistema
+![Delta = 0](./Images/001.png "Equação com Delta = 0")
+
+##### Prova Real
+![Prova Real](./Images/003.png "Prova real do cálculo da equação de segundo grau")
+
+#### Sem Raízes Reais (Delta < 0)
+Quando o discriminante é menor que zero, a equação não possui raízes reais, apenas raízes complexas.
+##### Sistema
+![Delta < 0](./Images/006.png "Prova real do cálculo da equação de segundo grau")
+
+##### Prova Real
+![Prova Real](./Images/005.png "Prova real do cálculo da equação de segundo grau")
+
+---
+
 Este trabalho demonstrou na prática como as chamadas remotas via RMI podem ser utilizadas para distribuir processos entre um servidor e um cliente, resolvendo problemas de maneira eficaz e descentralizada.
